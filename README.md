@@ -35,6 +35,7 @@ It helps me build confidence with logic, syntax, and problem-solving.
 
 ## 📸 Screenshots
 
+![Rollercoaster Screenshot](https://raw.githubusercontent.com/ranger-beep/python-mini-projects/rollercoaster-ride-ticket-system/rollercoaster_screenshot.png)
 > _(Coming soon)_  
 > I will upload screenshots of running projects in the terminal to better showcase the outputs.
 
