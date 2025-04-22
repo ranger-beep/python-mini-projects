@@ -34,19 +34,15 @@ It helps me build confidence with logic, syntax, and problem-solving.
 ---
 
 ## 📸 Screenshots
+#### Treasure Island:
+<img src="https://github.com/ranger-beep/python-mini-projects/blob/main/treasure-island/treasure_island_screenshot.png?raw=true" width="500"/>
 
-![Rollercoaster Screenshot](https://raw.githubusercontent.com/ranger-beep/python-mini-projects/rollercoaster-ride-ticket-system/rollercoaster_screenshot.png)
-> _(Coming soon)_  
-> I will upload screenshots of running projects in the terminal to better showcase the outputs.
+#### Rollercoaster Ride Ticket System  
+<img src="https://github.com/ranger-beep/python-mini-projects/blob/main/rollercoaster-ride-ticket-system/rollercoaster_screenshot.png?raw=true" width="700"/>
 
----
+#### Rock Paper Scissors  
+<img src="https://github.com/ranger-beep/python-mini-projects/blob/main/rock-paper-scissors/rock_paper_scissors_screenshot.png?raw=true" width="400"/>
 
-## 🤝 Contributions
+#### 🔐 PyPassword Generator  
+<img src="https://github.com/ranger-beep/python-mini-projects/blob/main/pypassword-generator/pypassword_screenshot.png?raw=true" width="400"/>
 
-This is a personal learning project, but feel free to fork and play around!
-
----
-
-## 📚 License
-
-This project is open-source and available under the [MIT License](LICENSE).
