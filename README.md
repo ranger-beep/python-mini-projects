@@ -37,12 +37,12 @@ It helps me build confidence with logic, syntax, and problem-solving.
 #### Treasure Island:
 <img src="https://github.com/ranger-beep/python-mini-projects/blob/main/treasure-island/treasure_island_screenshot.png?raw=true" width="500"/>
 
-#### Rollercoaster Ride Ticket System  
+#### Rollercoaster Ride Ticket System:
 <img src="https://github.com/ranger-beep/python-mini-projects/blob/main/rollercoaster-ride-ticket-system/rollercoaster_screenshot.png?raw=true" width="700"/>
 
-#### Rock Paper Scissors  
+#### Rock Paper Scissors:
 <img src="https://github.com/ranger-beep/python-mini-projects/blob/main/rock-paper-scissors/rock_paper_scissors_screenshot.png?raw=true" width="400"/>
 
-#### 🔐 PyPassword Generator  
+#### PyPassword Generator:
 <img src="https://github.com/ranger-beep/python-mini-projects/blob/main/pypassword-generator/pypassword_screenshot.png?raw=true" width="400"/>
 
